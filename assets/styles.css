@@ -1,9 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Young+Serif&display=swap");
+
 /** Sampled from two sources for a quick placeholder
 * https://codepen.io/ostylowany/pen/vYzPVZL - @ostylowany
 * https://codepen.io/walpolea/pen/ZERZOaB - @walpolea
 */
-
-@import url("https://fonts.googleapis.com/css2?family=Lato&family=Young+Serif&display=swap");
 
 :root {
   --bg: #000000;
