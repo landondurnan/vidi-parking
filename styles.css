@@ -45,7 +45,7 @@ body {
 
 .title {
   font-family: "Young Serif", serif;
-  font-size: var(--step-3);
+  font-size: var(--step-2);
   letter-spacing: 0.1rem;
   position: relative;
   overflow: hidden;
@@ -54,7 +54,7 @@ body {
 }
 
 .subtitle {
-  font-size: var(--step-1);
+  font-size: var(--step-0);
   letter-spacing: 0.01rem;
   line-height: 0.5;
 }
